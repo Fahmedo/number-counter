@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background: wheat;
+}
+
+.container{
+    border: 10px dashed black;
+    height: 500px;
+    width: 500px;
+    margin-top: 100px;
+    margin-left: 500px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: aqua;
+
+
+}
+h1{
+    margin: 30px;
+
+}
+h2{
+    margin: 20px;
+    font-size: 70px;
+}
+#count_btn{
+    font-weight: 700;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+.p{   
+    height: 100px;
+    width: auto;
+    margin-top: 20px;
+    margin-left: 5px;
+    text-align: left;
+    font-weight: bolder;
+    font-size: 20px;
+    background: white;
+    color: blue;
+}
+.remove_btn{
+    
+    height: 50px;
+    width: 130px;
+    font-weight: 700;
+    margin: 5px;
+    margin-top: 70px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
